@@ -1,0 +1,23 @@
+body{
+    text-align: justify;
+    font-family: Comic Sans MS, Comic Sans, cursive;
+    text-align: center;
+    background-color: rgb(194, 182, 182);
+    border: 25px solid rgb(87, 86, 82)
+}
+
+h1{
+    color: rgb(132, 248, 0)
+}
+
+#Jogo{
+    Color: brown
+}
+
+p{
+    color: white
+}
+
+div{
+    color: green;
+}
